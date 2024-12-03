@@ -1,2 +1,4 @@
 # ci_iggy
-Custom iggy image for CI usage on low spec VM's
+Custom iggy container image for usage on low spec CI VM's
+
+See config folder for custom config.
